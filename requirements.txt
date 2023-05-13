@@ -1,0 +1,5 @@
+streamlit==1.21.0
+pandas==1.5.3
+sweetviz==2.1.4
+ydata_profiling==4.1.2
+streamlit_pandas_profiling==0.1.3
