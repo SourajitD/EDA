@@ -4,4 +4,4 @@ Exploratory data analysis (EDA) is a crucial step in the data analysis process t
 
 This EDA Web App has been made to automate the process using Streamlit, YData-Profiling & SweetViz libraries in Python.
 
-[Click to view EDA Web App](https://sourajitd-eda-eda-web-app-0rxqvj.streamlit.app/)
+[![Click to view EDA Web App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sourajitd-eda-eda-web-app-0rxqvj.streamlit.app/)
